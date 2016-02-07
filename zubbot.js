@@ -160,8 +160,7 @@ new DubAPI({
         if (err) {
             return console.error(err);
         }
-        console.log("------------------------   NightBlueBot  -------------------------------------");
-        console.log("------------------------ CREATED BY ZUBOHM -----------------------------------");
+        console.log("------------------------   Bot  -------------------------------------");
 
         console.log('Checking if all directories exists...');
         var dataDirectories = ['history', 'quotes', 'users', 'python'];
